@@ -7,3 +7,5 @@ Projects, assignments, project guidelines and student projects by faculties and 
 
 1. PCC-CS391 (Data Structures and Algorithms in C) - In progress. 
 2. PCC-CS393 (IT Workshop (Python)) - In Progress
+3. PCC-CS592 (Operating System (Shell)) - Completed
+4. PCC-CS692 (Computer Network (Java)) - Completed
